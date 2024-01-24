@@ -8,3 +8,9 @@
 
 #### 2_Behavioral_corr.ipynb
 ##### subject-by-subject multivariates pattern similarity and its similarity to behavioral measurements
+
+#### 3_reward_signature.ipynb
+##### subject-level reward calculates by full/masked reward model and medialogo activation, and the correlations with pmu scores
+
+#### 4_change_across_runs.ipynb
+##### to see whether the activation and reward level would change the more times they watched the stimuli (in different runs)
